@@ -1,1 +1,1 @@
-# makyak-malzemeleri
+motoko dilinde yazılmış makyaj malzemeleri puanlama sitesi.
